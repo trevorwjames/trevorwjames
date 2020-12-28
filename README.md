@@ -4,7 +4,7 @@ I'm Trevor, I am a Data Scientist with a yearning to learn how to impact with th
 
 💬 Check out my daily thoughts on [twitter](https://twitter.com/TrevorWJames1)  
 📝 Take a peek at my Medium site [Medium](https://trevorwillemjames.medium.com/)  
-🌱 I’m currently learning: how to use Deep learning to better analyze HRV data  
+🌱 I’m currently learning: about using dbt for data warehousing  
 ⁉️ Ask me about: Anything honestly, im a pretty open book  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trevorwjames/)  
 ⚡ Fun fact: I actually enjoy being cold 🥶 more than I like being hot 🥵  
